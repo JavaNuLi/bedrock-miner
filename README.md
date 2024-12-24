@@ -4,7 +4,7 @@
 帮你 "挖掘" 基岩的客户端 Fabric mod！
 
 # 说明
-该项目 fork 自 [LXYan2333/Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) 进行修改
+该项目 fork 自 [bunnyi116/fabric-bedrock-miner](https://github.com/bunnyi116/fabric-bedrock-miner) 进行修改
 
 ## 默认方块列表清单
 
